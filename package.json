@@ -22,14 +22,14 @@
         "daemon-plus": "^1.1.1",
         "electron": "~1.6.2",
         "electron-require": "^0.3.0",
-        "js-yaml": "^3.9.1",
+        "js-yaml": "^3.13.1",
         "material-components-web": "^0.14.0",
         "node-notifier": "^5.1.2"
     },
     "dependencies": {
         "daemon-plus": "^1.1.1",
         "electron-require": "^0.3.0",
-        "js-yaml": "^3.9.1",
+        "js-yaml": "^3.13.1",
         "material-components-web": "^0.14.0",
         "node-notifier": "^5.1.2"
     },
